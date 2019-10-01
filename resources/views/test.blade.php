@@ -31,7 +31,7 @@
             }
 
             .position-ref {
-                position: fix;
+                position: relative;
             }
 
             .top-right {
